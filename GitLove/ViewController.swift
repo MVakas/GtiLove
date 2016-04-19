@@ -22,6 +22,7 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var showMessage: UIButton!
 
+    //adding comments
     let alert = UIAlertController(title: "Hi", message: "Gettting Git", preferredStyle: .Alert)
     
     
